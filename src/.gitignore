@@ -1,0 +1,12 @@
+terget/
+*.iml
+.idea
+build/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.versionBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
